@@ -1,3 +1,3 @@
-# tmax_data_2
+# Computer_science
 
-contains the training and testing data in stanford medicine box uploaded May 22nd. 
+contains notes and code from previous computer science course
